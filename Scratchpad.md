@@ -1,4 +1,4 @@
-# Resources for Online Company Training
+# Resources for Mandatory Online Company Training
 
 Useful when training isn't going quick enough:
 
