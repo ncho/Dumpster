@@ -1,6 +1,6 @@
 # Resources for Mandatory Online Company Training
 
-Useful when training isn't going quick enough:
+Useful when training isn't going quickly enough:
 
 `document.querySelector('video').playbackRate = 1.5` (or `10`)
 
